@@ -1,21 +1,32 @@
-                                            **ECOMMERCE WEBSITE**
+                                            # 🛍️ E-Commerce Website
 <img width="1814" height="814" alt="Screenshot 2026-04-16 161816" src="https://github.com/user-attachments/assets/559dd236-fee4-4bfc-acb9-8526d2ac48b2" />
 
-**Introduction**
+## Introduction
+A fully functional e-commerce website built with [PHP/MySQL/HTML/CSS/JS]. This project allows users to browse products, add items to cart, and complete checkout seamlessly.
 
-**SwiftCart** is a modern, lightweight, and fast e-commerce web application built with **PHP** (backend) and **MySQL** (database). It provides a seamless shopping experience with real-time cart updates, secure checkout, and responsive design.
+## Features
+- User registration & login
+- Product listing with categories
+- Shopping cart management
+- Order placement
+- Admin panel for product management
 
-### ✨ Key Features
-- 🚀 Blazing fast performance
-- 🛍️ Product listing with categories
-- 🛒 Dynamic shopping cart (add/remove/update)
-- 💳 Secure checkout process
-- 📱 Fully responsive design (mobile-first)
-- 🔒 Basic security (SQL injection prevention, XSS protection)
-- 📊 Session-based cart management
+## Technologies Used
+- Frontend: HTML, CSS, JavaScript
+- Backend: PHP
+- Database: MySQL
 
- ### 🛠️ Tech Stack
-- **Frontend:** HTML5, CSS3, JavaScript (Vanilla), Bootstrap 5
-- **Backend:** PHP 7.4+
-- **Database:** MySQL 5.7+
-- **Server:** Apache/Nginx (XAMPP/WAMP compatible)
+## Installation
+1. Clone the repository
+2. Import database.sql file
+3. Configure database connection in config.php
+4. Run on localhost/XAMPP
+
+## Usage
+Visit index.php to start shopping. Admin login: joker@gmail.com / #@Kumar8877
+
+## Author
+[Shubham88770](https://github.com/Shubham88770)
+
+## License
+MIT
