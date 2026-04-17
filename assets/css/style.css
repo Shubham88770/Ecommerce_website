@@ -1,0 +1,87 @@
+body {
+    background: #f4f6f9;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+.card {
+    border-radius: 15px;
+    transition: 0.3s;
+}
+
+.card:hover {
+    transform: scale(1.03);
+}
+
+.navbar {
+    border-radius: 0 0 10px 10px;
+}
+
+.btn {
+    border-radius: 10px;
+}
+
+.table {
+    background: white;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.dashboard-card {
+    padding: 20px;
+    color: white;
+    border-radius: 15px;
+}
+
+.bg-blue { background: #007bff; }
+.bg-green { background: #28a745; }
+.bg-orange { background: #fd7e14; }
+
+.card {
+    border-radius: 15px;
+    transition: 0.3s;
+}
+
+.card:hover {
+    transform: scale(1.02);
+}
+.card {
+    border-radius: 12px;
+}
+
+.btn-warning {
+    background: #fb641b;
+    border: none;
+}
+
+.btn-warning:hover {
+    background: #e55b17;
+}
+.card {
+    border-radius: 12px;
+}
+
+.btn-warning {
+    background: #fb641b;
+    border: none;
+}
+
+.btn-warning:hover {
+    background: #e55b17;
+}
+
+.sticky-top {
+    top: 20px;
+}
+.card {
+    border-radius: 12px;
+}
+
+.btn-warning {
+    background: #fb641b;
+    border: none;
+    font-weight: bold;
+}
+
+.btn-warning:hover {
+    background: #e55b17;
+}
